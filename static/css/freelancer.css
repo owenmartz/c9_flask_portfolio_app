@@ -149,9 +149,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #0B0C10;
   color: white;
-  border-color: #18BC9C;
+  border-color: #0B0C10;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #0B0C10;
+  background: #18BC9C;
   color: white;
 }
 @media (max-width: 767px) {
