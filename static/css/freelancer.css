@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #0B0C10;
   color: white;
 }
 @media (max-width: 767px) {
@@ -284,7 +284,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #000000;
+  color: #18BC9C;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
