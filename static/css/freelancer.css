@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #0B0C10;
   color: white;
 }
 header .container {
@@ -149,9 +149,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #0B0C10;
+  background-color: #18BC9C;
   color: white;
-  border-color: #0B0C10;
+  border-color: #18BC9C;
 }
 @media (min-width: 768px) {
   .navbar-custom {
